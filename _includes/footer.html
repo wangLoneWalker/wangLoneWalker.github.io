@@ -79,14 +79,21 @@
               <span class="label">RSS</span>
             </a>
           </li> -->
-		   {% if site.social.gitee %}
-		   <!-- gitee -->
-		  <li class="navigation__item_social">
-			  <a href="https://gitee.com/{{site.social.gitee}}" title="@{{site.social.gitee}}" target="_blank">
-				  <div class="footer-social-icon" style="background:url(/images/gitee.jpg);"></div>
-			  </a>
-		  </li>
-           <% endif %}
+		  
+			{% if site.social.gitee %}
+<li class="navigation__item_social">
+	<a href="https://gitee.com/{{site.social.gitee}}" title="@{{site.social.gitee}}" target="_blank">
+		<div class="footer-social-icon" style="background:url(/images/gitee.png);"></div>
+	</a>
+</li>
+{% endif %}
+{% if site.social.csdn %}
+<li class="navigation__item_social">
+	<a href="https://blog.csdn.net/{{site.social.csdn}}" title="@{{site.social.csdn}}" target="_blank">
+		<div class="footer-social-icon" style="background:url(/images/csdn.png);"></div>
+	</a>
+</li>
+{% endif %}
           </ul>
         </nav>
 
