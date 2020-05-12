@@ -15,11 +15,11 @@ title: 关于我
 <h3>个人项目</h3>
 <p>
 Sparrow是一个基于Springboot的后台管理系统，项目名有“麻雀虽小，五脏俱全”的含义。
-更多了解可访问此篇博文：[Springboot系列记录](https://blog.csdn.net/QingXu1234/article/details/105711008)
-<img src="/images/sparrow.png"/>
-<p>
-<p> 
+更多了解可访问此篇博文：
 
+[Springboot系列记录](https://blog.csdn.net/QingXu1234/article/details/105711008)
+<p> 
+<img src="/images/sparrow.png"/>
 <h3> 如何联系我 </h3>  
 
 <p> 
