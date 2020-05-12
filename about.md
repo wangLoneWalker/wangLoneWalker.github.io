@@ -10,7 +10,7 @@ title: 关于我
 熟悉基本的前端技术，喜欢写博客；
 画了一张基本的JAVA学习思维导图，分享给大家。
 <p>
-!["JAVA学习路线图"](/images/java.png "java学习思维导图")
+<img src="/images/java.png"/>
 <p> 
 
 
