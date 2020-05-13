@@ -1,3 +1,10 @@
+---
+layout: post
+title: Springboot系列记录（一）——入门IDEA
+date: 2019-03-13 
+tag: SpringBoot
+---
+
 ## 1、新建项目
 ![](/images/posts/springboot/0.png)
 这里选择 **Spring initializr** 它 是Spring 官方提供的一个很好的工具，用来初始化一个Spring boot 的项目

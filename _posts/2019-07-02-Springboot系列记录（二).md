@@ -1,3 +1,10 @@
+---
+layout: post
+title: Springboot系列记录（二）——配置文件的读取
+date: 2019-07-02 
+tag: SpringBoot
+---
+
 ## 前言
 Spring默认使用yml中的配置，但有时候要用传统的xml或properties配置，就需要使用spring-boot-configuration-processor了
 首先在Maven配置文件中加载依赖，这样Springboot将会创建读取属性文件的上下文。
